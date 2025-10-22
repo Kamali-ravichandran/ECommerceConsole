@@ -1,0 +1,9 @@
+| Software                           | Description                                            |
+| ---------------------------------- | ------------------------------------------------------ |
+| **Java JDK**                       | Version **8 or above** (JDK 8, 11, 17, etc.)           |
+| **IDE (Optional)**                 | Any one of:                                            |
+| 🔹 **Eclipse IDE**                 |                                                        |
+| 🔹 **IntelliJ IDEA**               |                                                        |
+| 🔹 **VS Code with Java Extension** |                                                        |
+| **Command Line**                   | For compiling/running Java programs (if not using IDE) |
+| **Git (optional)**                 | For version control and uploading to GitHub            |
