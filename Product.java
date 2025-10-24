@@ -20,8 +20,9 @@ public class Product {
 	    public String getCategory() { return category; }
 	    public double getPrice() { return price; }
 	    public int getStock() { return stock; }
-
+        // decreases stock when added to cart
 	    public void reduceStock(int qty) { this.stock -= qty; }
+	    // retsores stock when remobed from cart
 	    public void increaseStock(int qty) { this.stock += qty; }
 
 	    @Override
@@ -30,3 +31,4 @@ public class Product {
 	                id, name, category, price, stock);
 	    }
 }
+
